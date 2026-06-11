@@ -1,0 +1,524 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Doronsûn",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.87922178213,
+                    38.34564879636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Samynia",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41809939576,
+                    36.12611827086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Batıgedik",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.77933975390,
+                    48.65800761358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galmora",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.70963655096,
+                    44.03783182298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Xoras",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.27127803048,
+                    35.71736075881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Demir Liman",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09169019433,
+                    47.58785986068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Khen Thorunn",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.39284518373,
+                    46.98813826971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tal-Haib",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.56018127603,
+                    33.13153524351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boğaz",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.54746647631,
+                    51.24612324257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galmora",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.88412365618,
+                    38.90881469623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gylfindor",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.68506122425,
+                    54.68895601761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rhûn",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.41934258027,
+                    38.93610554904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taşmühür",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.59222575302,
+                    51.01875043193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orymus",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.59435076138,
+                    50.15737822957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mirn Oden",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.30281879916,
+                    50.20865091582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dun Bodan",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.60577943235,
+                    32.39793828577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Örsbaşı",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.12460450192,
+                    45.67093925232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lys",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71368599984,
+                    38.73470678183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nirngrad",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.28541774389,
+                    40.25044168581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Akşamgözcüsü",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.26862563825,
+                    37.22359858442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sedirçatal",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.75825900639,
+                    33.90596859390
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arbor",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.22732776721,
+                    45.80551609653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hisar",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.87937590141,
+                    48.07304611375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moraport",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.89225404756,
+                    39.85315359119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bhal Noldor",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.18542084163,
+                    43.64622809558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nefeos",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.41923880456,
+                    45.34183156529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Urungâd",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.54829300662,
+                    37.65616147684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Işıkmızrak",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.26665505921,
+                    42.31777443001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Közdalı",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.30354691867,
+                    53.00995585029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pänn Oden",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.63413262616,
+                    52.47233671975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seher",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.64721313168,
+                    32.41961919623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parth",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.37743902024,
+                    39.48046339696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ejderateşi",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.85823048693,
+                    40.64869942863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Teim",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.99256233541,
+                    39.62875014808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lath",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.21458063517,
+                    40.62182198300
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Myria",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.94970735766,
+                    39.10059815653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bhal Garom",
+                "place": "city"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37647554048,
+                    47.36594189238
+                ]
+            }
+        }
+    ]
+}
